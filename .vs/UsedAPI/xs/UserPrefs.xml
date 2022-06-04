@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{73292BC2-991D-4ED6-82BE-AAEB9719EDA4}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.UsedAPI PreferredExecutionTarget="/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UsedAPI/appsettings.Development.json">
+    <Files>
+      <File FileName="UsedAPI/appsettings.Development.json" Line="11" Column="16" />
+      <File FileName="UsedAPI/appsettings.json" Line="1" Column="1" />
+      <File FileName="UsedAPI/Program.cs" Line="31" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UsedAPI" expanded="True">
+            <Node name="UsedAPI" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="appsettings.json" expanded="True">
+                <Node name="appsettings.Development.json" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
